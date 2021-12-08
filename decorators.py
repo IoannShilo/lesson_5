@@ -15,7 +15,7 @@ def fabric_decorators(arg_decorator):
 def test_1(arg1):...
 
 
-@fabric_decorators(123)
+@fabric_decorators(146)
 def test_2(arg1):...
 
 
